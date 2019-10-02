@@ -4,3 +4,4 @@ xlrd
 matplotlib
 sklearn
 seaborn
+statistics
